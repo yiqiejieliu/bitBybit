@@ -22,7 +22,6 @@
     CGFloat contentOffsetBefore;
 }
 
-#define itemSpace 5
 - (void)viewDidLoad {
     [super viewDidLoad];
     
